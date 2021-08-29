@@ -3,8 +3,8 @@
 
  <div>
   <a href="https://github.com/danieltorrescode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieltorrescode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorrescode&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieltorrescode&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorrescode&layout=compact&langs_count=7"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@
 
 <div style="display: inline_block"><br>
 
-  <a href = "mailto:contatodanieltorrescode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatodanieltorres2902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-torres-01a13b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://danieltorrescode.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
