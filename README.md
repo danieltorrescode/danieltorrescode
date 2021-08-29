@@ -1,9 +1,47 @@
 ### Hi there 👋
+# 💻🚀📈📈
+
+ <div>
+  <a href="https://github.com/danieltorrescode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieltorrescode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltorrescode&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="icon-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+
+  <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="icon-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+  <img align="center" alt="icon-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
+
+  <a href = "mailto:contatodanieltorrescode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-torres-01a13b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://danieltorrescode.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+</div>
 
 <!--
-**danieltorrescode/danieltorrescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Useful Web resources:
 
-Here are some ideas to get you started:
+  https://github.com/devicons/devicon/tree/master/icons
+
+  https://emojipedia.org/
+
+  https://github.com/anuraghazra/github-readme-stats
+
+  https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+  https://dev.to/envoy_/150-badges-for-github-pnk
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
