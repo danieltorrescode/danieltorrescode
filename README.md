@@ -1,6 +1,11 @@
 ### Hi there 👋
 # 💻🔋🚀📈
 
+ <p>
+  ⚡ Here is a collection of my micro-projects, some are maintained during part of my free time for fun, 
+  others when i want to keep me up to day with the languages and frameworks or there is something new to try out.
+</p>
+
  <div>
   <a href="https://github.com/danieltorrescode">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieltorrescode&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -22,7 +27,7 @@
   <img align="center" alt="icon-Docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  
 </div>
-
+ 
 <div style="display: inline_block"><br>
 
   <a href = "mailto:contatodanieltorres2902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
