@@ -31,9 +31,8 @@
  
 <div style="display: inline_block"><br>
 
-  <a href = "mailto:contatodanieltorres2902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-torres-01a13b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://danieltorrescode.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/GitHub.io-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/daniel-torres-01a13b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--   <a href="https://danieltorrescode.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/GitHub.io-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
 
 </div>
 
