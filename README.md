@@ -1,9 +1,15 @@
 ### Hi there 👋
-# 💻🔋🚀📈
+# 💻🔋⚡🚀📈
 
+<p>
+I'm full-stack software developer.always learning something new in the tech field. highly interested in maths, data sicence and machine learning,      enthusiast for free software philosophy and GNU-Linux operating systems.
+</p>
  <p>
-  ⚡ Here is a collection of my micro-projects, some are maintained during part of my free time for fun, 
-  others when i want to keep me up to day with the languages and frameworks or there is something new to try out.
+Here is a collection of my micro-projects, some are maintained during part of my free time for fun, 
+others when i want to keep me up to day with the languages and frameworks or there is something new to try out.
+</p>
+<p>
+The idea is to make use and try out all benefits and tools provided and get an understanding of the capabilities, this is intended to be used by me as a code playground in my learning path and practices.
 </p>
 
  <div>
