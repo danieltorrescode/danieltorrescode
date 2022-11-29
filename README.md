@@ -2,7 +2,7 @@
 # 💻🔋⚡🚀📈
 
 <p>
-I'm full-stack software developer.always learning something new in the tech field. highly interested in maths, data sicence and machine learning,      enthusiast for free software philosophy and GNU-Linux operating systems.
+I'm full-stack software developer. always learning something new in the tech field. highly interested in maths, data sicence and machine learning,      enthusiast for free software philosophy and GNU-Linux operating systems.
 </p>
  <p>
 Here is a collection of my micro-projects, some are maintained during part of my free time for fun, 
